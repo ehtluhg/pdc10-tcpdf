@@ -1,0 +1,17 @@
+{
+    "name": "user/pdc10-tcpdf",
+    "autoload": {
+        "psr-4": {
+            "User\\Pdc10Tcpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ehtluhg",
+            "email": "dy.gabrielrhobert@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.5"
+    }
+}
