@@ -90,47 +90,46 @@ $tbl = <<<EOD
   <td>Saturday</td>
  </tr>
  <tr nobr="true">
-  <td></td>
-  <td></td>
   <td style="background-color: #2f4550;color:#b8dbd9">  1<span style="color:#f4f4f9;font-size: 6pt;"><br><br>New Year's Day</span></td>
   <td style="background-color: #586f7c;color:#f4f4f9">  2<span style="color:#b8dbd9;font-size: 3.5pt;"><br><br><br>(Special Non-Working Day)</span></td>
   <td>3</td>
   <td>4</td>
-  <td>5</td>
+  <td>5</td> 
+  <td>6</td>
+  <td>7</td>
+  
  </tr>
  <tr nobr="true">
-  <td style="">6</td>
-  <td>7</td>
   <td>8</td>
   <td>9</td>
   <td>10</td>
   <td>11</td>
   <td>12</td>
- </tr>
- <tr nobr="true">
   <td>13</td>
   <td>14</td>
+ </tr>
+ <tr nobr="true">
   <td>15</td>
   <td>16</td>
   <td>17</td>
   <td>18</td>
   <td>19</td>
- </tr>
- <tr nobr="true">
   <td>20</td>
   <td>21</td>
+ </tr>
+ <tr nobr="true">
   <td>22</td>
   <td>23</td>
   <td>24</td>
   <td>25</td>
   <td>26</td>
- </tr>
- <tr nobr="true">
   <td>27</td>
   <td>28</td>
+ </tr>
+ <tr nobr="true">
   <td>29</td>
   <td>30</td>
-  <td></td>
+  <td>31</td>
   <td></td>
   <td></td>
  </tr>
